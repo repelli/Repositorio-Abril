@@ -1,0 +1,24 @@
+git branch -a
+
+git branch editar
+
+git checkout editar
+
+git status
+
+git add .
+
+git commit -m "Criação do arquivo cadastro"
+
+
+
+git checkout main
+
+
+
+git marge cadastro
+
+git status
+
+
+git push origin main
